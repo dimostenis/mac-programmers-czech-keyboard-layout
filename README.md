@@ -1,11 +1,30 @@
 # Programmers' Czech Keyboard Layout for Mac 🇨🇿
 
-This layout modifies the Czech keyboard on macOS so that the top row of keys (`1`, `2`,
-`3`, … `0`) always types numbers without requiring the `⬆Shift` key, while characters
-such as `ě`, `š`, `č`, `ř`, `ž`, `ý`, `á`, `í`, and `é` are accessible by holding
-`⬆Shift`.
+Ahoj 👋🏼
 
-## Why Another Repository?
+This layout modifies the Czech keyboard on macOS so that the top row of keys (`1`, `2`,
+`3`, ... `0`) always types numbers without requiring the `⬆Shift` key, while characters
+such as `+`, `ě`, `š` ... `é` are accessible by holding `⬆Shift`.
+
+## Key Behavior
+
+This table shows the behavior of the top row keys in this modified layout, compared to
+the original Czech keyboard.
+
+| Key Pressed | Output (No `⬆Shift`) | Output (With `⬆Shift`) |
+|:------------|:---------------------|:-----------------------|
+| `1`         | `1`                  | `+`                    |
+| `2`         | `2`                  | `ě`                    |
+| `3`         | `3`                  | `š`                    |
+| `4`         | `4`                  | `č`                    |
+| `5`         | `5`                  | `ř`                    |
+| `6`         | `6`                  | `ž`                    |
+| `7`         | `7`                  | `ý`                    |
+| `8`         | `8`                  | `á`                    |
+| `9`         | `9`                  | `í`                    |
+| `0`         | `0`                  | `é`                    |
+
+## Why Yet Another Repository?
 
 I could not find any existing layout that worked properly, so I created my own.
 
