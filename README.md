@@ -46,3 +46,10 @@ Tested and created on macOS 15.4.1.
 
 This layout is considered complete. No further updates are planned unless the Czech
 keyboard layout itself changes in future macOS versions.
+
+## Changelog
+
+| Date         | Description  |
+|--------------|--------------|
+| 2025-06-17   | 🔧 Type numbers with `Caps Lock` enabled instead of `Ě`, `Š`, etc. |
+| 2025-04-28   | 🎉 Initial release |
